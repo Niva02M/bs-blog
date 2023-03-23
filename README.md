@@ -1,3 +1,4 @@
 # bs-blog
-a blog website with nthg really on it
+a blog website made using only html and css
+yet to add javascriot and its frameworks
 (incomplete)
